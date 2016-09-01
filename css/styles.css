@@ -1,3 +1,15 @@
-.container {
+body {
   background-color: magenta;
+}
+
+.panda-show {
+  /*display: none;*/
+}
+
+.panda-hidden {
+  display: none;
+}
+
+.clickable:hover {
+  text-decoration: underline;
 }
