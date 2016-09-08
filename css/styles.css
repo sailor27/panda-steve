@@ -2,9 +2,9 @@ body {
   background-color: magenta;
 }
 
-.panda-show {
-  /*display: none;*/
-}
+/*.panda-showing {
+  display: none;
+}*/
 
 .panda-hidden {
   display: none;

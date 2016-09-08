@@ -1,6 +1,6 @@
 $(function() {
   $(".clickable").click(function() {
-    $(".panda-show").toggle();
+    $(".panda-showing").toggle();
     $(".panda-hidden").toggle();
   });
 });
